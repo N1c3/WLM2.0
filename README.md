@@ -8,3 +8,7 @@
   - manifest.json / service-worker.js: Registered as a PWA (display: standalone) but the SW deliberately skips caching and forwards everything to the network.                                                 
                                                                                                                                                                                                                
   The whole app is self-contained in about 450 lines of HTML/JS per page.
+
+
+You find the Wiener Lienen API Documentation in
+https://www.wienerlinien.at/ogd_realtime/doku/ogd/wienerlinien-echtzeitdaten-dokumentation.pdf
